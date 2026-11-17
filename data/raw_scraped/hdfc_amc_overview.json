@@ -1,0 +1,22 @@
+{
+  "slug": "hdfc_amc_overview",
+  "scheme_name": "HDFC Mutual Fund AMC Overview",
+  "category": "AMC Overview",
+  "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+  "scraped_at": "2026-11-01T15:30:00Z",
+  "key_metrics": {
+    "fund_house": "HDFC Asset Management Company Limited (HDFC Mutual Fund)",
+    "rank": "#2 in India by AUM",
+    "total_aum": "₹9,34,075.66 Cr",
+    "incorporation_date": "10 Dec 1999 (SEBI Registration: June 30, 2000)",
+    "sponsor": "Housing Development Finance Corporation Limited (HDFC Ltd / HDFC Bank)",
+    "ceo": "Navneet Munot",
+    "statement_download_guide": "To download mutual fund capital-gains or account statement on Groww: 1. Log in to the Groww app or web portal. 2. Click on Profile Icon and navigate to 'Reports'. 3. Select 'Mutual Funds Reports' -> 'Capital Gains Statement'. 4. Select the Financial Year and choose PDF or Excel format. 5. Click 'Download' or 'Send to Email'. Alternatively, on official HDFC AMC portal (hdfcfund.com), navigate to Investor Services -> Account Statement, enter PAN or Folio number to receive the statement via registered email."
+  },
+  "parsed_sections": {
+    "About HDFC Mutual Fund": "HDFC Mutual Fund is one of India's largest and most established Asset Management Companies. It was established as a joint venture between HDFC and Standard Life Investments. HDFC AMC manages over ₹9.34 Lakh Crore across equity, debt, hybrid, and solution-oriented schemes.",
+    "Capital Gains Statement Download Procedure": "Steps to download statement: In Groww app, go to Profile -> Reports -> Capital Gains Statement. Select the desired financial year and click Download. For official AMC direct statement, visit HDFC AMC portal under Investor Services -> Account Statement.",
+    "AMC Leadership & Governance": "Managing Director & CEO: Navneet Munot. Chief Investment Officer: Prashant Jain (historical) / Senior Fund Managers including Chirag Setalvad, Roshi Jain, Rahul Baijal, and Gopal Agrawal."
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "collection_name": "mutual_fund_facts",
+  "provider": "ChromaDB",
+  "persist_directory": "data\\chroma_db",
+  "distance_metric": "cosine",
+  "total_documents": 29,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "sample_ids": [
+    "hdfc_amc_overview_overview_introduction_01",
+    "hdfc_amc_overview_key_scheme_facts_metrics_02",
+    "hdfc_amc_overview_about_hdfc_mutual_fund_03",
+    "hdfc_amc_overview_capital_gains_statement_download_procedure_04",
+    "hdfc_amc_overview_amc_leadership_governance_05"
+  ]
+}

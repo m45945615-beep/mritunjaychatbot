@@ -1,0 +1,17 @@
+app:
+  name: "Groww Mutual Fund Facts Assistant"
+  version: "1.0.0"
+  disclaimer: "Facts-only. No investment advice."
+  educational_url: "https://www.amfiindia.com/investor-corner/knowledge-center"
+  max_sentences: 3
+  date_stamp: "2026-11-01"
+
+embedding:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  device: "cpu"
+
+vectordb:
+  collection_name: "mutual_fund_facts"
+  top_k: 3
+  similarity_threshold: 0.65
+

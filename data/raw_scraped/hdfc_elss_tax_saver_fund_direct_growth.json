@@ -1,0 +1,27 @@
+{
+  "slug": "hdfc_elss_tax_saver_fund_direct_growth",
+  "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+  "category": "ELSS (Tax Saver)",
+  "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+  "scraped_at": "2026-11-01T15:30:00Z",
+  "key_metrics": {
+    "expense_ratio": "1.12%",
+    "exit_load": "Nil (Subject to mandatory 3-year statutory lock-in period)",
+    "lock_in": "3 Years mandatory statutory lock-in period from the date of allotment under Section 80C of the Income Tax Act",
+    "tax_deduction": "Eligible for tax deduction up to ₹1.5 Lakh per financial year under Section 80C",
+    "min_sip": "₹500",
+    "min_lumpsum": "₹500",
+    "riskometer": "Very High Risk",
+    "benchmark": "NIFTY 500 Total Return Index (TRI)",
+    "fund_manager": "Roshi Jain",
+    "launch_date": "01 Jan 2013 (Direct Plan) / 31 Mar 1996 (Inception)",
+    "stamp_duty": "0.005% on mutual fund unit purchases"
+  },
+  "parsed_sections": {
+    "Investment Objective": "To generate capital appreciation and income from a portfolio of predominantly equity-oriented investments while providing tax deduction under Section 80C of the Income Tax Act, 1961.",
+    "Lock-in Period & Tax Rules": "Statutory lock-in period is 3 years from the date of allotment under Section 80C. No redemption, transfer, or switch-out of units is permitted until the 3-year period expires. Investments qualify for tax deduction up to ₹1,50,000 annually under Section 80C.",
+    "Expense Ratio & Exit Load": "Expense ratio is 1.12% (Direct Plan). Exit load is Nil after completion of the 3-year lock-in period.",
+    "Minimum Investment & Riskometer": "Minimum SIP is ₹500 and Minimum Lumpsum is ₹500. Riskometer classification is Very High. Benchmark is NIFTY 500 Total Return Index (TRI)."
+  }
+}
+

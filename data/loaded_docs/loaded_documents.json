@@ -1,0 +1,126 @@
+[
+  {
+    "doc_id": "hdfc_amc_overview",
+    "scheme_name": "HDFC Mutual Fund AMC Overview",
+    "category": "AMC Overview",
+    "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+    "last_scraped_at": "2026-11-01T15:30:00Z",
+    "clean_text": "# HDFC Mutual Fund AMC Overview\n**Category:** AMC Overview | **Source:** https://groww.in/mutual-funds/amc/hdfc-mutual-funds\n\n## Key Scheme Facts & Metrics\n- **Fund House:** HDFC Asset Management Company Limited (HDFC Mutual Fund)\n- **Rank:** #2 in India by AUM\n- **Total Aum:** ₹9,34,075.66 Cr\n- **Incorporation Date:** 10 Dec 1999 (SEBI Registration: June 30, 2000)\n- **Sponsor:** Housing Development Finance Corporation Limited (HDFC Ltd / HDFC Bank)\n- **Ceo:** Navneet Munot\n- **Statement Download Guide:** To download mutual fund capital-gains or account statement on Groww: 1. Log in to the Groww app or web portal. 2. Click on Profile Icon and navigate to 'Reports'. 3. Select 'Mutual Funds Reports' -> 'Capital Gains Statement'. 4. Select the Financial Year and choose PDF or Excel format. 5. Click 'Download' or 'Send to Email'. Alternatively, on official HDFC AMC portal (hdfcfund.com), navigate to Investor Services -> Account Statement, enter PAN or Folio number to receive the statement via registered email.\n\n## About HDFC Mutual Fund\nHDFC Mutual Fund is one of India's largest and most established Asset Management Companies. It was established as a joint venture between HDFC and Standard Life Investments. HDFC AMC manages over ₹9.34 Lakh Crore across equity, debt, hybrid, and solution-oriented schemes.\n\n## Capital Gains Statement Download Procedure\nSteps to download statement: In Groww app, go to Profile -> Reports -> Capital Gains Statement. Select the desired financial year and click Download. For official AMC direct statement, visit HDFC AMC portal under Investor Services -> Account Statement.\n\n## AMC Leadership & Governance\nManaging Director & CEO: Navneet Munot. Chief Investment Officer: Prashant Jain (historical) / Senior Fund Managers including Chirag Setalvad, Roshi Jain, Rahul Baijal, and Gopal Agrawal.\n\nOfficial Source Link: https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+    "key_metrics": {
+      "fund_house": "HDFC Asset Management Company Limited (HDFC Mutual Fund)",
+      "rank": "#2 in India by AUM",
+      "total_aum": "₹9,34,075.66 Cr",
+      "incorporation_date": "10 Dec 1999 (SEBI Registration: June 30, 2000)",
+      "sponsor": "Housing Development Finance Corporation Limited (HDFC Ltd / HDFC Bank)",
+      "ceo": "Navneet Munot",
+      "statement_download_guide": "To download mutual fund capital-gains or account statement on Groww: 1. Log in to the Groww app or web portal. 2. Click on Profile Icon and navigate to 'Reports'. 3. Select 'Mutual Funds Reports' -> 'Capital Gains Statement'. 4. Select the Financial Year and choose PDF or Excel format. 5. Click 'Download' or 'Send to Email'. Alternatively, on official HDFC AMC portal (hdfcfund.com), navigate to Investor Services -> Account Statement, enter PAN or Folio number to receive the statement via registered email."
+    },
+    "metadata": {
+      "slug": "hdfc_amc_overview",
+      "raw_file": "hdfc_amc_overview.json",
+      "section_count": 3
+    }
+  },
+  {
+    "doc_id": "hdfc_large_cap_fund_direct_growth",
+    "scheme_name": "HDFC Large Cap Fund Direct Growth",
+    "category": "Large Cap",
+    "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+    "last_scraped_at": "2026-11-01T15:30:00Z",
+    "clean_text": "# HDFC Large Cap Fund Direct Growth\n**Category:** Large Cap | **Source:** https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth\n\n## Key Scheme Facts & Metrics\n- **Expense Ratio:** 1.02%\n- **Exit Load:** 1% if redeemed within 1 year; Nil after 1 year (365 days)\n- **Min Sip:** ₹100\n- **Min Lumpsum:** ₹100\n- **Lock In:** Nil (Open-ended equity scheme)\n- **Riskometer:** Very High Risk\n- **Benchmark:** NIFTY 100 Total Return Index (TRI)\n- **Fund Manager:** Rahul Baijal\n- **Launch Date:** 10 Dec 1999\n- **Stamp Duty:** 0.005% on mutual fund unit purchases\n\n## Investment Objective\nThe scheme seeks to provide long-term capital appreciation and income by investing predominantly in large-cap companies. The fund invests at least 80% of total assets in top 100 companies by market capitalization.\n\n## Expense Ratio & Exit Load\nExpense ratio is 1.02% (Direct Plan). Exit load is 1% if redeemed within 1 year (365 days) from allotment; Nil if redeemed after 1 year. Stamp duty is 0.005% on purchases.\n\n## Minimum Investment & Liquidity\nMinimum SIP investment is ₹100. Minimum Lumpsum investment is ₹100. There is no statutory lock-in period; units can be redeemed on any business day.\n\n## Riskometer & Benchmark\nRiskometer rating is Very High. Benchmark index is NIFTY 100 Total Return Index (TRI).\n\nOfficial Source Link: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+    "key_metrics": {
+      "expense_ratio": "1.02%",
+      "exit_load": "1% if redeemed within 1 year; Nil after 1 year (365 days)",
+      "min_sip": "₹100",
+      "min_lumpsum": "₹100",
+      "lock_in": "Nil (Open-ended equity scheme)",
+      "riskometer": "Very High Risk",
+      "benchmark": "NIFTY 100 Total Return Index (TRI)",
+      "fund_manager": "Rahul Baijal",
+      "launch_date": "10 Dec 1999",
+      "stamp_duty": "0.005% on mutual fund unit purchases"
+    },
+    "metadata": {
+      "slug": "hdfc_large_cap_fund_direct_growth",
+      "raw_file": "hdfc_large_cap_fund_direct_growth.json",
+      "section_count": 4
+    }
+  },
+  {
+    "doc_id": "hdfc_flexi_cap_fund_direct_growth",
+    "scheme_name": "HDFC Flexi Cap Direct Plan Growth",
+    "category": "Flexi Cap",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "last_scraped_at": "2026-11-01T15:30:00Z",
+    "clean_text": "# HDFC Flexi Cap Direct Plan Growth\n**Category:** Flexi Cap | **Source:** https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth\n\n## Key Scheme Facts & Metrics\n- **Expense Ratio:** 0.77%\n- **Exit Load:** 1% if redeemed within 1 year; Nil after 1 year (365 days)\n- **Min Sip:** ₹100\n- **Min Lumpsum:** ₹100\n- **Lock In:** Nil (Open-ended equity scheme)\n- **Riskometer:** Very High Risk\n- **Benchmark:** NIFTY 500 Total Return Index (TRI)\n- **Fund Manager:** Roshi Jain\n- **Launch Date:** 01 Jan 2013 (Direct Plan) / 01 Jan 1995 (Inception)\n- **Stamp Duty:** 0.005% on mutual fund unit purchases\n\n## Investment Objective\nThe scheme seeks to generate capital appreciation/income from a portfolio predominantly invested in equity & equity-related instruments across market capitalizations (Large Cap, Mid Cap, and Small Cap).\n\n## Expense Ratio & Exit Load\nExpense ratio is 0.77% (Direct Plan). Exit load is 1% if units are redeemed within 1 year (365 days) from the date of allotment. Nil exit load after 1 year.\n\n## Minimum Investment & Liquidity\nMinimum SIP investment is ₹100. Minimum Lumpsum investment is ₹100. No statutory lock-in period.\n\n## Riskometer & Benchmark\nRiskometer classification is Very High. Benchmark index is NIFTY 500 Total Return Index (TRI).\n\nOfficial Source Link: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "key_metrics": {
+      "expense_ratio": "0.77%",
+      "exit_load": "1% if redeemed within 1 year; Nil after 1 year (365 days)",
+      "min_sip": "₹100",
+      "min_lumpsum": "₹100",
+      "lock_in": "Nil (Open-ended equity scheme)",
+      "riskometer": "Very High Risk",
+      "benchmark": "NIFTY 500 Total Return Index (TRI)",
+      "fund_manager": "Roshi Jain",
+      "launch_date": "01 Jan 2013 (Direct Plan) / 01 Jan 1995 (Inception)",
+      "stamp_duty": "0.005% on mutual fund unit purchases"
+    },
+    "metadata": {
+      "slug": "hdfc_flexi_cap_fund_direct_growth",
+      "raw_file": "hdfc_flexi_cap_fund_direct_growth.json",
+      "section_count": 4
+    }
+  },
+  {
+    "doc_id": "hdfc_elss_tax_saver_fund_direct_growth",
+    "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+    "category": "ELSS (Tax Saver)",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "last_scraped_at": "2026-11-01T15:30:00Z",
+    "clean_text": "# HDFC ELSS Tax Saver Fund Direct Plan Growth\n**Category:** ELSS (Tax Saver) | **Source:** https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth\n\n## Key Scheme Facts & Metrics\n- **Expense Ratio:** 1.12%\n- **Exit Load:** Nil (Subject to mandatory 3-year statutory lock-in period)\n- **Lock In:** 3 Years mandatory statutory lock-in period from the date of allotment under Section 80C of the Income Tax Act\n- **Tax Deduction:** Eligible for tax deduction up to ₹1.5 Lakh per financial year under Section 80C\n- **Min Sip:** ₹500\n- **Min Lumpsum:** ₹500\n- **Riskometer:** Very High Risk\n- **Benchmark:** NIFTY 500 Total Return Index (TRI)\n- **Fund Manager:** Roshi Jain\n- **Launch Date:** 01 Jan 2013 (Direct Plan) / 31 Mar 1996 (Inception)\n- **Stamp Duty:** 0.005% on mutual fund unit purchases\n\n## Investment Objective\nTo generate capital appreciation and income from a portfolio of predominantly equity-oriented investments while providing tax deduction under Section 80C of the Income Tax Act, 1961.\n\n## Lock-in Period & Tax Rules\nStatutory lock-in period is 3 years from the date of allotment under Section 80C. No redemption, transfer, or switch-out of units is permitted until the 3-year period expires. Investments qualify for tax deduction up to ₹1,50,000 annually under Section 80C.\n\n## Expense Ratio & Exit Load\nExpense ratio is 1.12% (Direct Plan). Exit load is Nil after completion of the 3-year lock-in period.\n\n## Minimum Investment & Riskometer\nMinimum SIP is ₹500 and Minimum Lumpsum is ₹500. Riskometer classification is Very High. Benchmark is NIFTY 500 Total Return Index (TRI).\n\nOfficial Source Link: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "key_metrics": {
+      "expense_ratio": "1.12%",
+      "exit_load": "Nil (Subject to mandatory 3-year statutory lock-in period)",
+      "lock_in": "3 Years mandatory statutory lock-in period from the date of allotment under Section 80C of the Income Tax Act",
+      "tax_deduction": "Eligible for tax deduction up to ₹1.5 Lakh per financial year under Section 80C",
+      "min_sip": "₹500",
+      "min_lumpsum": "₹500",
+      "riskometer": "Very High Risk",
+      "benchmark": "NIFTY 500 Total Return Index (TRI)",
+      "fund_manager": "Roshi Jain",
+      "launch_date": "01 Jan 2013 (Direct Plan) / 31 Mar 1996 (Inception)",
+      "stamp_duty": "0.005% on mutual fund unit purchases"
+    },
+    "metadata": {
+      "slug": "hdfc_elss_tax_saver_fund_direct_growth",
+      "raw_file": "hdfc_elss_tax_saver_fund_direct_growth.json",
+      "section_count": 4
+    }
+  },
+  {
+    "doc_id": "hdfc_mid_cap_fund_direct_growth",
+    "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+    "category": "Mid Cap",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "last_scraped_at": "2026-11-01T15:30:00Z",
+    "clean_text": "# HDFC Mid Cap Fund Direct Growth\n**Category:** Mid Cap | **Source:** https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth\n\n## Key Scheme Facts & Metrics\n- **Expense Ratio:** 0.76%\n- **Exit Load:** 1% if redeemed within 1 year (365 days); Nil after 1 year\n- **Min Sip:** ₹100\n- **Min Lumpsum:** ₹100\n- **Lock In:** Nil (Open-ended equity scheme)\n- **Riskometer:** Very High Risk\n- **Benchmark:** NIFTY Midcap 150 Total Return Index (TRI)\n- **Fund Manager:** Chirag Setalvad\n- **Launch Date:** 01 Jan 2013 (Direct Plan) / 25 Jun 2007 (Inception)\n- **Stamp Duty:** 0.005% on mutual fund unit purchases\n\n## Investment Objective\nTo provide long-term capital appreciation by investing predominantly in equity and equity-related instruments of mid-cap companies (companies ranked 101st to 250th by market capitalization).\n\n## Expense Ratio & Exit Load\nExpense ratio is 0.76% (Direct Plan). Exit load is 1% if redeemed within 1 year (365 days); Nil if redeemed after 1 year.\n\n## Minimum Investment & Liquidity\nMinimum SIP investment is ₹100. Minimum Lumpsum investment is ₹100. No lock-in period. Open for subscription and redemption on all business days.\n\n## Riskometer & Benchmark\nRiskometer classification is Very High. Benchmark index is NIFTY Midcap 150 Total Return Index (TRI).\n\nOfficial Source Link: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "key_metrics": {
+      "expense_ratio": "0.76%",
+      "exit_load": "1% if redeemed within 1 year (365 days); Nil after 1 year",
+      "min_sip": "₹100",
+      "min_lumpsum": "₹100",
+      "lock_in": "Nil (Open-ended equity scheme)",
+      "riskometer": "Very High Risk",
+      "benchmark": "NIFTY Midcap 150 Total Return Index (TRI)",
+      "fund_manager": "Chirag Setalvad",
+      "launch_date": "01 Jan 2013 (Direct Plan) / 25 Jun 2007 (Inception)",
+      "stamp_duty": "0.005% on mutual fund unit purchases"
+    },
+    "metadata": {
+      "slug": "hdfc_mid_cap_fund_direct_growth",
+      "raw_file": "hdfc_mid_cap_fund_direct_growth.json",
+      "section_count": 4
+    }
+  }
+]
+

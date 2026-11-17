@@ -1,0 +1,26 @@
+{
+  "slug": "hdfc_flexi_cap_fund_direct_growth",
+  "scheme_name": "HDFC Flexi Cap Direct Plan Growth",
+  "category": "Flexi Cap",
+  "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+  "scraped_at": "2026-11-01T15:30:00Z",
+  "key_metrics": {
+    "expense_ratio": "0.77%",
+    "exit_load": "1% if redeemed within 1 year; Nil after 1 year (365 days)",
+    "min_sip": "₹100",
+    "min_lumpsum": "₹100",
+    "lock_in": "Nil (Open-ended equity scheme)",
+    "riskometer": "Very High Risk",
+    "benchmark": "NIFTY 500 Total Return Index (TRI)",
+    "fund_manager": "Roshi Jain",
+    "launch_date": "01 Jan 2013 (Direct Plan) / 01 Jan 1995 (Inception)",
+    "stamp_duty": "0.005% on mutual fund unit purchases"
+  },
+  "parsed_sections": {
+    "Investment Objective": "The scheme seeks to generate capital appreciation/income from a portfolio predominantly invested in equity & equity-related instruments across market capitalizations (Large Cap, Mid Cap, and Small Cap).",
+    "Expense Ratio & Exit Load": "Expense ratio is 0.77% (Direct Plan). Exit load is 1% if units are redeemed within 1 year (365 days) from the date of allotment. Nil exit load after 1 year.",
+    "Minimum Investment & Liquidity": "Minimum SIP investment is ₹100. Minimum Lumpsum investment is ₹100. No statutory lock-in period.",
+    "Riskometer & Benchmark": "Riskometer classification is Very High. Benchmark index is NIFTY 500 Total Return Index (TRI)."
+  }
+}
+

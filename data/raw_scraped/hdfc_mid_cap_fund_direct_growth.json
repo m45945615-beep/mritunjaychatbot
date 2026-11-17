@@ -1,0 +1,26 @@
+{
+  "slug": "hdfc_mid_cap_fund_direct_growth",
+  "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+  "category": "Mid Cap",
+  "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+  "scraped_at": "2026-11-01T15:30:00Z",
+  "key_metrics": {
+    "expense_ratio": "0.76%",
+    "exit_load": "1% if redeemed within 1 year (365 days); Nil after 1 year",
+    "min_sip": "₹100",
+    "min_lumpsum": "₹100",
+    "lock_in": "Nil (Open-ended equity scheme)",
+    "riskometer": "Very High Risk",
+    "benchmark": "NIFTY Midcap 150 Total Return Index (TRI)",
+    "fund_manager": "Chirag Setalvad",
+    "launch_date": "01 Jan 2013 (Direct Plan) / 25 Jun 2007 (Inception)",
+    "stamp_duty": "0.005% on mutual fund unit purchases"
+  },
+  "parsed_sections": {
+    "Investment Objective": "To provide long-term capital appreciation by investing predominantly in equity and equity-related instruments of mid-cap companies (companies ranked 101st to 250th by market capitalization).",
+    "Expense Ratio & Exit Load": "Expense ratio is 0.76% (Direct Plan). Exit load is 1% if redeemed within 1 year (365 days); Nil if redeemed after 1 year.",
+    "Minimum Investment & Liquidity": "Minimum SIP investment is ₹100. Minimum Lumpsum investment is ₹100. No lock-in period. Open for subscription and redemption on all business days.",
+    "Riskometer & Benchmark": "Riskometer classification is Very High. Benchmark index is NIFTY Midcap 150 Total Return Index (TRI)."
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "slug": "hdfc_large_cap_fund_direct_growth",
+  "scheme_name": "HDFC Large Cap Fund Direct Growth",
+  "category": "Large Cap",
+  "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+  "scraped_at": "2026-11-01T15:30:00Z",
+  "key_metrics": {
+    "expense_ratio": "1.02%",
+    "exit_load": "1% if redeemed within 1 year; Nil after 1 year (365 days)",
+    "min_sip": "₹100",
+    "min_lumpsum": "₹100",
+    "lock_in": "Nil (Open-ended equity scheme)",
+    "riskometer": "Very High Risk",
+    "benchmark": "NIFTY 100 Total Return Index (TRI)",
+    "fund_manager": "Rahul Baijal",
+    "launch_date": "10 Dec 1999",
+    "stamp_duty": "0.005% on mutual fund unit purchases"
+  },
+  "parsed_sections": {
+    "Investment Objective": "The scheme seeks to provide long-term capital appreciation and income by investing predominantly in large-cap companies. The fund invests at least 80% of total assets in top 100 companies by market capitalization.",
+    "Expense Ratio & Exit Load": "Expense ratio is 1.02% (Direct Plan). Exit load is 1% if redeemed within 1 year (365 days) from allotment; Nil if redeemed after 1 year. Stamp duty is 0.005% on purchases.",
+    "Minimum Investment & Liquidity": "Minimum SIP investment is ₹100. Minimum Lumpsum investment is ₹100. There is no statutory lock-in period; units can be redeemed on any business day.",
+    "Riskometer & Benchmark": "Riskometer rating is Very High. Benchmark index is NIFTY 100 Total Return Index (TRI)."
+  }
+}
+

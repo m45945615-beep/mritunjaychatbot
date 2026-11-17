@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "hdfc_amc_overview",
+    "scheme_name": "HDFC Mutual Fund AMC Overview",
+    "category": "AMC Overview",
+    "url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+    "description": "Official AMC overview for HDFC Mutual Fund including AUM, incorporation, fund house background, and account statement download process."
+  },
+  {
+    "slug": "hdfc_large_cap_fund_direct_growth",
+    "scheme_name": "HDFC Large Cap Fund Direct Growth",
+    "category": "Large Cap",
+    "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+    "description": "Official scheme details for HDFC Large Cap Fund Direct Growth (expense ratio, exit load, minimum SIP, riskometer, benchmark)."
+  },
+  {
+    "slug": "hdfc_flexi_cap_fund_direct_growth",
+    "scheme_name": "HDFC Flexi Cap Direct Plan Growth",
+    "category": "Flexi Cap",
+    "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "description": "Official scheme details for HDFC Flexi Cap Direct Plan Growth (expense ratio, exit load, minimum SIP, riskometer, benchmark)."
+  },
+  {
+    "slug": "hdfc_elss_tax_saver_fund_direct_growth",
+    "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+    "category": "ELSS (Tax Saver)",
+    "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "description": "Official scheme details for HDFC ELSS Tax Saver Fund Direct Plan Growth (3-year statutory lock-in, Section 80C, expense ratio, exit load, minimum SIP, riskometer, benchmark)."
+  },
+  {
+    "slug": "hdfc_mid_cap_fund_direct_growth",
+    "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+    "category": "Mid Cap",
+    "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "description": "Official scheme details for HDFC Mid Cap Fund Direct Growth (expense ratio, exit load, minimum SIP, riskometer, benchmark)."
+  }
+]
+
