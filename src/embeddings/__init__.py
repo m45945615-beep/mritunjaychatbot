@@ -1,0 +1,2 @@
+"""Embedding Model Adapters Module."""
+
