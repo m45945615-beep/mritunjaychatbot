@@ -1,0 +1,28 @@
+# Environment & Secrets (NEVER COMMIT)
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Build & Cache
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
